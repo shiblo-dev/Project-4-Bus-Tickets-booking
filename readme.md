@@ -4,7 +4,6 @@
 Developing the Future of Transportation: Where Innovation Meets Mobility
 
 ## live link-https://shiblo-dev.github.io/Bus-Tickets-booking-project/
-
 ## Used Technologies
 
 - HTML
