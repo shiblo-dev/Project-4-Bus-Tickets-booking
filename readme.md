@@ -1,9 +1,7 @@
-# Greenline Paribahan
-# Bus-Tickets-booking-project
+## Greenline Paribahan
+## Bus-Tickets-booking-project
 
 Developing the Future of Transportation: Where Innovation Meets Mobility
-
-## Coach -009 | Web
 
 ## live link-https://shiblo-dev.github.io/Bus-Tickets-booking-project/
 
