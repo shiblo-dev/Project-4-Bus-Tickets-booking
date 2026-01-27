@@ -87,8 +87,8 @@ function handleBook(e) {
     alert("Passenger name is required");
     return;
   }
-  if (!mobile) {
-    alert("Enter the mobile number");
+   if (!/^01\d{9}$/.test(mobile)) {
+    alert("Enter valid 11 digit Bangladeshi mobile number");
     return;
   }
   document.getElementById("modalSeats").innerText =
