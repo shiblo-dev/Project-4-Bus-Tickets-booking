@@ -87,7 +87,7 @@ function handleBook(e) {
     alert("Passenger name is required");
     return;
   }
-  if (!mobile)) {
+  if (!mobile) {
     alert("Enter the mobile number");
     return;
   }
